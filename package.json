@@ -1,0 +1,19 @@
+{
+  "name": "frisby-dev",
+  "version": "1.0.0",
+  "description": "frisby-dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "koooge/frisby-dev",
+  "keywords": [
+    "frisby"
+  ],
+  "author": "koooge <koooooge@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koooge/frisby-dev/issues"
+  },
+  "homepage": "https://github.com/koooge/frisby-dev#readme"
+}
