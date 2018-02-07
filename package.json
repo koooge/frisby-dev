@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/koooge/frisby-dev/issues"
   },
-  "homepage": "https://github.com/koooge/frisby-dev#readme"
+  "homepage": "https://github.com/koooge/frisby-dev#readme",
+  "dependencies": {
+    "frisby": "file:../frisby"
+  }
 }
